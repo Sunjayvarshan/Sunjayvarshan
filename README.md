@@ -42,8 +42,9 @@
 </div>
 
 
+
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Sunjayvarshan/Sunjayvarshan/output/snake.svg" alt="Snake animation" />
+https://profile-readme-generator.com/assets/snake.svg
 
 ###
