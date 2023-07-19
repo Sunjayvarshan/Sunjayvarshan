@@ -1,5 +1,5 @@
-<!--<img src="https://www.technoloader.com/blog/wp-content/uploads/2020/01/Hire-React-Native.gif" alt="react" height="300" width="800" />-->
-<img src="https://miro.medium.com/v2/resize:fit:720/1*E_4l9LlQblmBk6HCBJB2Sg.gif" height="300" width="800"/>
+<img src="https://www.technoloader.com/blog/wp-content/uploads/2020/01/Hire-React-Native.gif" alt="react" height="350" width="800" />
+<!--<img src="https://miro.medium.com/v2/resize:fit:720/1*E_4l9LlQblmBk6HCBJB2Sg.gif" height="300" width="800"/>-->
 <h1 align="left">Sunjay Varshan</h1>
 
 **`Digital Craftsman (Web Developer/Full Stack Developer)`**
