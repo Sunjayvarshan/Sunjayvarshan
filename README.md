@@ -1,4 +1,10 @@
-<h2 align="left">Hi 👋 I'm Sunjay ...</h2>
+<h1 align="left">Sunjay Varshan</h1>
+
+**`Digital Craftsman (Web Developer/Full Stack Developer)`**
+
+As a passionate full-stack web developer, I find true joy in crafting immersive web experiences. With a keen eye for aesthetics and seamless functionality, I breathe life into captivating websites. From front-end interfaces to robust back-end systems, I traverse the entire development process, delivering end-to-end solutions that exceed expectations. Witnessing users effortlessly navigate through my designs ignites a sense of fulfillment like no other. Collaboration and continuous growth fuel my journey, and I am excited to leave my mark on the digital canvas, one extraordinary website at a time
+
+---
 
 ###
 
