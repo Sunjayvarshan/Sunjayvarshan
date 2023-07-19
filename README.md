@@ -41,8 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
 </div>
 
-
-![Snake animation](https://github.com/{{Sunjayvarshan}}/{{Sunjayvarshan}}/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/Sunjayvarshan/Sunjayvarshan/blob/output/github-contribution-grid-snake.svg" /></p>
 
 
 <br clear="both">
