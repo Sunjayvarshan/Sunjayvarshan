@@ -42,6 +42,8 @@
 </div>
 
 
+![Snake animation](https://github.com/{{Sunjayvarshan}}/{{Sunjayvarshan}}/blob/output/github-contribution-grid-snake.svg)
+
 
 <br clear="both">
 
