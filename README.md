@@ -45,6 +45,6 @@
 
 <br clear="both">
 
-https://profile-readme-generator.com/assets/snake.svg
+<img src="https://profile-readme-generator.com/assets/snake.svg">
 
 ###
