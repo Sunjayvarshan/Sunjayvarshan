@@ -1,5 +1,5 @@
 <!--<img src="https://www.technoloader.com/blog/wp-content/uploads/2020/01/Hire-React-Native.gif" alt="react" height="300" width="800" />-->
-<iframe src='https://gfycat.com/ifr/BestMeagerHoki' frameborder='0' scrolling='no' allowfullscreen width='640' height='335'></iframe><p> <a href="https://gfycat.com/bestmeagerhoki">via Gfycat</a></p>
+<img src='https://gfycat.com/ifr/BestMeagerHoki' frameborder='0' scrolling='no' allowfullscreen width='640' height='335'></img>
 
 <h1 align="left">Sunjay Varshan</h1>
 
